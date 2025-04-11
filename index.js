@@ -1,7 +1,7 @@
 const yesBtn = document.querySelector('#yesBtn');
 
 yesBtn.addEventListener('click',function () {
-    alert('Yo sé que no puedes vivir sin mí UwU')
+    alert('Ya sabía que no te ibas a negar UwU')
 });
 
 const noBtn = document.querySelector('#noBtn');
